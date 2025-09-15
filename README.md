@@ -37,7 +37,7 @@
 ## 🏆 Competitive Programming  
 <p align="center">
   <a href="https://leetcode.com/anas__/">
-    <img src="https://leetcard.jacoblin.cool/your-leetcode-username?ext=contest&theme=dark" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/anas__?ext=contest&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
 
