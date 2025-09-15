@@ -25,9 +25,18 @@
 
 ---
 
+
+## 🧑‍💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/anas__)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/anas09sksm)  [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/23071002392_Anas)  
+
+
+
+---
+
 ## 🏆 Competitive Programming  
 <p align="center">
-  <a href="https://leetcode.com/your-leetcode-username/">
+  <a href="https://leetcode.com/anas__/">
     <img src="https://leetcard.jacoblin.cool/your-leetcode-username?ext=contest&theme=dark" alt="LeetCode Stats" />
   </a>
 </p>
@@ -36,12 +45,12 @@
 
 ## 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anas092121&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas092121&layout=compact&theme=radical" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=your-github-username&theme=radical&border_radius=8" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=anas092121&theme=radical&border_radius=8" height="165"/>
 </p>
 
 ---
