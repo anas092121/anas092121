@@ -59,7 +59,7 @@
 | Project | Tech Stack | Description | Link |
 |---------|------------|-------------|------|
 | 🍔 **Task Manager** | MERN | Task manager application to manage and update task efficiently | [View Repo](https://github.com/anas092121/todo_fullStack.git) |
-| 📝 **POSTMUX** | MERN | Social medaia content using AI caption generation, export tools, content calendar | [View Repo](https://github.com/anas092121/postmux.git) |
+| 📝 **POSTMUX** | MERN | Social medaia content using AI caption generation, export tools | [View Repo](https://github.com/anas092121/postmux.git) |
 | 🚦 **Adaptive Traffic Light System** | IoT + MERN | Traffic monitoring with emergency vehicle management | [View Repo](https://github.com/anas092121/Adaptive-Traffic-Light.git) |
 
 ---
